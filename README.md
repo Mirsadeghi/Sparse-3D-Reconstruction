@@ -38,11 +38,17 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 # Visual Results:
 
-| Rectification1  | Rectification2 |
+|    Rectification Step Results    |
 | --------------- | -------------- |
 |  ![](Rec2.jpg)  |  ![](I2.jpg)   |
+| --------------- | -------------- |
+|  ![](Rec.jpg)   |![](RoIRec.jpg) |
 
-![Rectification3](Rec.jpg) | ![Rectification4](RoIRec.jpg)
-:--------------------:|:---------------------:|:-------------------------:
-![Dense1](Dense1.jpg) | ![Dense2](Dense2.jpg) | ![Dense3](Dense3.jpg)<br/>
-![Sparse reconstruction](sparse_result.jpg)<br/>
+|      Dense Macthing Results      |
+| --------------- | -------------- |
+| ![](Dense1.jpg) |![](Dense2.jpg) |
+| --------------- | -------------- |
+|  ![](Dense3.jpg) |
+
+|Sparse reconstruction |
+|![](sparse_result.jpg)|
