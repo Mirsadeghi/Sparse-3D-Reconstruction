@@ -37,7 +37,10 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 
 # Visual Results:
-![Rectification1](Rec2.jpg) | ![Rectification2](I2.jpg)<br/>
-![Rectification3](Rec.jpg) | ![Rectification4](RoIRec.jpg)<br/>
+:--------------------------:|:-------------------------:
+![Rectification1](Rec2.jpg) | ![Rectification2](I2.jpg)
+:-------------------------:|:-------------------------:
+![Rectification3](Rec.jpg) | ![Rectification4](RoIRec.jpg)
+:--------------------:|:---------------------:|:-------------------------:
 ![Dense1](Dense1.jpg) | ![Dense2](Dense2.jpg) | ![Dense3](Dense3.jpg)<br/>
 ![Sparse reconstruction](sparse_result.jpg)<br/>
