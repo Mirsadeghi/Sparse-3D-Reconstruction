@@ -13,12 +13,12 @@ This project contains all steps of 3D reconstruction. These steps are listed bel
 ACV_prj1()
 
 # Visual Results:
-![Rectification1](Rec2.jpg)
-![Rectification2](I2.jpg)
-![Rectification3](Rec.jpg)
-![Rectification4](RollRec.jpg)
-![Dense1](Dense1.jpg)
-![Dense2](Dense2.jpg)
-![Dense3](Dense3.jpg)
-![Sparse reconstruction](sparse_result.jpg)
+![Rectification1](Rec2.jpg)<br/>
+![Rectification2](I2.jpg)<br/>
+![Rectification3](Rec.jpg)<br/>
+![Rectification4](RolRec.jpg)<br/>
+![Dense1](Dense1.jpg)<br/>
+![Dense2](Dense2.jpg)<br/>
+![Dense3](Dense3.jpg)<br/>
+![Sparse reconstruction](sparse_result.jpg)<br/>
 
