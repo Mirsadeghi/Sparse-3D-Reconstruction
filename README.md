@@ -25,7 +25,7 @@ simply run ```ACV_prj1().m```
 
 ## Authors
 
-* **Ehsan Mirsadeghi** - *Initial work*
+* **Ehsan Mirsadeghi**
 
 ## License
 
@@ -33,7 +33,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* This is a final project of advanced 3D computer vision course prosented by [Prof. Shohreh Kasaei](http://sharif.edu/~kasaei/)
+* This is a final project of advanced 3D computer vision course presented by [Prof. Shohreh Kasaei](http://sharif.edu/~kasaei/)
 
 
 # Visual Results:
