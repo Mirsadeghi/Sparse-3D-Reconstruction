@@ -41,4 +41,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ![Rectification3](Rec.jpg)<br/> ![Rectification4](RolRec.jpg)<br/>
 ![Dense1](Dense1.jpg)<br/> ![Dense2](Dense2.jpg)<br/> ![Dense3](Dense3.jpg)<br/>
 ![Sparse reconstruction](sparse_result.jpg)<br/>
-
