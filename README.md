@@ -9,7 +9,7 @@ This project contains all steps of 3D reconstruction.
 In this project, all of these steps are includedL<br/>
 1. Computing Fundamental matrix using SIFT and RANSAC<br/>
 2. Image Rectification<br/>
-3. Dense matching using block matcing<br/>
+3. Dense matching using block matching<br/>
 4. sparse 3D reconstruction using projection matrix<br/>
 5. Outlier removal<br/>
 6. creating mesh for point cloud<br/>
